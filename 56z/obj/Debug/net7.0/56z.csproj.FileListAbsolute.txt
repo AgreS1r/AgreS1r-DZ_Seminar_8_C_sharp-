@@ -1,0 +1,15 @@
+D:\C#\8dz\56z\bin\Debug\net7.0\56z.exe
+D:\C#\8dz\56z\bin\Debug\net7.0\56z.deps.json
+D:\C#\8dz\56z\bin\Debug\net7.0\56z.runtimeconfig.json
+D:\C#\8dz\56z\bin\Debug\net7.0\56z.dll
+D:\C#\8dz\56z\bin\Debug\net7.0\56z.pdb
+D:\C#\8dz\56z\obj\Debug\net7.0\56z.csproj.AssemblyReference.cache
+D:\C#\8dz\56z\obj\Debug\net7.0\56z.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\8dz\56z\obj\Debug\net7.0\56z.AssemblyInfoInputs.cache
+D:\C#\8dz\56z\obj\Debug\net7.0\56z.AssemblyInfo.cs
+D:\C#\8dz\56z\obj\Debug\net7.0\56z.csproj.CoreCompileInputs.cache
+D:\C#\8dz\56z\obj\Debug\net7.0\56z.dll
+D:\C#\8dz\56z\obj\Debug\net7.0\refint\56z.dll
+D:\C#\8dz\56z\obj\Debug\net7.0\56z.pdb
+D:\C#\8dz\56z\obj\Debug\net7.0\56z.genruntimeconfig.cache
+D:\C#\8dz\56z\obj\Debug\net7.0\ref\56z.dll
